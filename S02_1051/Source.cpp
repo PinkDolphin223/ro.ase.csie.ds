@@ -1,5 +1,3 @@
-//DINU RARES
-//GHEORGHE MADALINA
 #include "stdio.h"
 #include "malloc.h"
 void main()
