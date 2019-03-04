@@ -1,8 +1,3 @@
-//MARIN ADELA
-//MILEA RADU
-//MARINESCU COSMIN
-//MIRCEA OANA
-//PETROSCHI MATEI
 #include "stdio.h"
 #include "malloc.h"
 void main()
