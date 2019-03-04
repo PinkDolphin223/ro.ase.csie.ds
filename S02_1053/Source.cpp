@@ -1,5 +1,3 @@
-//STEFAN IULIA
-//TURCU MIHAI
 #include "stdio.h"
 #include "malloc.h"
 void main()
