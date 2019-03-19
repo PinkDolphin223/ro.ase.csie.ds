@@ -1,0 +1,5 @@
+Popescu		1500.8
+Antonescu	650.9
+Ionescu		1000.0
+Georgescu	800.5
+Calinescu	940.2
