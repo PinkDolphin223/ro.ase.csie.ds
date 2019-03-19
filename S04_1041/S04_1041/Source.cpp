@@ -1,12 +1,6 @@
 #include "stdio.h"
 #include "string.h"
 #include "stdlib.h"
-//COMAN ALEXANDRU
-//CHIOIBAS DORIN
-//CONSTANTINESCU RAZVAN
-//CRETU LEONARD
-//CHICIU MIHAI
-//CIOBANU ALEXANDRU
 struct List
 {
 	char* profesie;
